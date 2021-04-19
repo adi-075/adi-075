@@ -1,5 +1,5 @@
 - 👀 Hi, I’m @adi-075
-- 👋 I’m interested in C++ & Python
+- 👋 I’m a student and I'm interested in C++ & Python
 - 👉🏻 I’m currently learning C++ Basics
 - 👻 I’m looking to collaborate on C++ Projects
 
