@@ -2,6 +2,7 @@
 - 👋 I’m a student and I'm interested in C++ & Python
 - 👉🏻 I’m currently learning C++ Basics
 - 👻 I’m looking to collaborate on C++ Projects
+- 🔥 I use arch, btw.
 
 <!---
 adi-075/adi-075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
