@@ -1,6 +1,6 @@
 - 👀 Hi, I’m @adi-075
 - 👋 I’m a student and I'm interested in C++ & Python
-- 👉🏻 I’m currently learning C++ Basics
+- 👉🏻 I’m currently learning C++
 - 👻 I’m looking to collaborate on C++ Projects
 - 🔥 I use arch, btw.
 
