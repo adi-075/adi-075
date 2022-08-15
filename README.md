@@ -11,4 +11,4 @@
 
 <img src=https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif alt="Cyberpunk Car" width="600" height="470">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adi-075&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-075&show_icons=true&theme=radical)
