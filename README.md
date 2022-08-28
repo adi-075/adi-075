@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-075&" alt="adi-075" /></p>
 
-## Show some <❤️> staring some of my repository :)
+## Show some <❤️> staring some of my repositories :)
 
 <img src=https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif alt="Cyberpunk Car" width="140" height="140">
 
