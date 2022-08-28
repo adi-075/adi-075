@@ -9,6 +9,6 @@
 
 ## Show some <❤️> staring some of my repository :)
 
-<img src=https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif alt="Cyberpunk Car" width="360" height="360">
+<img src=https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif alt="Cyberpunk Car" width="140" height="140">
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-075&show_icons=true&theme=radical)
