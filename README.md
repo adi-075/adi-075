@@ -19,5 +19,5 @@
 
 ## Show some <❤️> staring some of my repositories :)
 
-<img src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized-large" alt="Observable Universe Space GIF By Teun Van Der Zalm" width="480" height="480">
+<iframe src="https://giphy.com/embed/3og0IV7MOCfnm85iRa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-universe-3og0IV7MOCfnm85iRa">via GIPHY</a></p>
 
