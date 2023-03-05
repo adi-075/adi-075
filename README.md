@@ -19,5 +19,5 @@
 
 ## Show some <❤️> staring some of my repositories :)
 
-<img src=https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif alt="Cyberpunk Car" width="140" height="140">
+<img src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized-large.gif" alt="Observable Universe Space GIF By Teun Van Der Zalm" width="480" height="480">
 
