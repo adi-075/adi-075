@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya!</h1>
-<h3 align="center">I'm a Developer based in Toledo, USA!</h3>
+<h3 align="center">I'm a Developer based in Toledo, OH!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-075&label=Profile%20views&color=0e75b6&style=flat" alt="adi-075" /> </p>
 
